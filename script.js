@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     ("downloadButton");
 
     downloadButton.addEventListener("click", function() {
-        const cvPath = "../assets/CV_Gazha Patra Atmaja.pdf";
+        const cvPath = "CV_Gazha Patra Atmaja.pdf";
 
         const link = document.createElement("a");
         link.href = cvPath;
