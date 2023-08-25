@@ -6,6 +6,10 @@ body {
     padding: auto;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 header {
     display: inline;
 }
